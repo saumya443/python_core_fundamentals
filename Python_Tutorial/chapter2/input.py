@@ -1,0 +1,5 @@
+a = int(input("enter number 1 : "))
+b = int(input("enter number 2 : "))
+print(f"Number {a} is: ")
+print(f"Number {b} is: ")
+print(f"sum of {a},{b}is: ",a + b)
